@@ -46,7 +46,7 @@ nav{
 }
 
 .logo img{
-    width: 18vw;
+    width: 60px;
 }
 
 nav ul{
@@ -483,18 +483,18 @@ footer h5{
 @media(max-width:768px){
 
     nav{
-        padding:15px 5%;
-    }
-
-    nav ul{
-        gap:12px;
-    }
-
-    nav a{
-        font-size:14px;
+        padding:10px 15px;
     }
 
     .logo img{
-        width: 18vw;
+        width:50px;
+    }
+
+    nav ul{
+        gap:10px;
+    }
+
+    nav a{
+        font-size:12px;
     }
 }
